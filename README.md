@@ -1,106 +1,50 @@
-# Hi 👋, I'm Tejas Kumar  
+# Tejas Kumar  
+**Full Stack Developer | Computer Science Undergraduate**
 
-🚀 **Full Stack Developer | Computer Science Undergraduate**  
-📍 Kangra, Himachal Pradesh, India  
-
-I’m a Computer Science undergraduate specializing in **Full Stack Web Development** with a strong foundation in **Data Structures, Object-Oriented Programming, and Database Management**.  
-I enjoy building **secure, scalable, real-world web applications** using the **MERN stack** and modern UI practices.
+![Profile Views](https://komarev.com/ghpvc/?username=tejas-kumar-gh&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
-## 🔧 Tech Stack
-
-**Languages**
-- JavaScript
-- Java
-- C++
-- C
-
-**Frontend**
-- React.js
-- HTML5
-- CSS3
-- Tailwind CSS
-
-**Backend**
-- Node.js
-- Express.js
-
-**Databases**
-- MongoDB
-- SQL
-
-**Cloud & Deployment**
-- Vercel
-- AWS
-
-**Core Concepts**
-- Data Structures & Algorithms
-- OOPs
-- REST APIs
-- JWT Authentication
-- Agile / Scrum
+## 👨‍💻 About Me
+Full Stack Developer skilled in building **scalable MERN applications** with strong foundations in  
+**DSA, OOP, REST APIs, and Database Design**. Passionate about writing clean, maintainable code and
+developing real-world systems.
 
 ---
 
-## 💼 Projects
-
-### 🚚 HaveIT – Peer-to-Peer Delivery Platform  
-🔗 **Live:** https://have-it-sooty.vercel.app/  
-**Tech:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB  
-*(Jan 2026 – Present)*
-
-- Built and deployed a **full-stack MERN application** handling real user workflows.
-- Designed **booking, request, and delivery lifecycles** similar to real-world transaction systems.
-- Developed **RESTful APIs** and optimized MongoDB schemas for scalability.
-- Followed **modular backend architecture** and clean coding practices.
-- Deployed on **Vercel** for live usage.
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-333333?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-333333?style=flat&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/Vercel-333333?style=flat&logo=vercel)
+![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java)
 
 ---
 
-### 🎓 University Assignment Portal  
-**Tech:** React.js, Node.js, Express.js, MongoDB  
-*(Jun 2025 – Nov 2025)*
+## 🚀 Featured Projects
+**HaveIT – Peer-to-Peer Delivery Platform**  
+- Full-stack MERN application with real-world delivery workflows  
+- REST APIs, JWT authentication, optimized MongoDB schema  
+🔗 https://have-it-sooty.vercel.app/
 
-- Developed a **role-based system** for Students, Professors, and HODs.
-- Implemented **multi-step approval workflows** resembling enterprise systems.
-- Designed centralized database models for **assignments, grades, and feedback**.
-
----
-
-## 🏀 Leadership & Activities
-
-**Basketball Head – University Team** *(Jun 2025 – Present)*  
-- Led the university basketball team and organized regular training sessions.
-- Represented the university in multiple inter-university tournaments.
-- Improved team coordination and overall performance.
+**University Assignment Portal**  
+- Role-based access for Students, Professors, and HODs  
+- Multi-step approval and submission workflows
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Engineering – Computer Science & Engineering**  
-Chitkara University, Himachal Pradesh *(2023 – 2027)*  
-📊 **CGPA:** 8.97  
-
-**Senior Secondary Education (Science)**  
-Adarsh Senior Secondary School, Kangra *(2012 – 2023)*  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejas-kumar-gh&show_icons=true&hide_title=true&theme=default" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-kumar-gh&theme=default" height="150"/>
+</p>
 
 ---
 
-## 🤝 Soft Skills
-- Problem Solving & Analytical Thinking  
-- Cross-functional Collaboration  
-- Ownership & Accountability  
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: [dhimantejas1234@gmail.com](mailto:dhimantejas1234@gmail.com)
-- 💼 LinkedIn: https://linkedin.com/in/tejas-kumar-t864
-- 💻 GitHub: https://github.com/tejas-kumar-gh
-
----
-
-⭐ *Always learning, building, and improving. Open to internships, collaborations, and exciting projects!*
+## 📫 Connect
+- 📧 Email: dhimantejas1234@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/tejas-kumar-t864  
+- 💻 Portfolio Project: https://have-it-sooty.vercel.app/
