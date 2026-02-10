@@ -21,6 +21,7 @@ developing real-world systems.
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-333333?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
 ![AWS](https://img.shields.io/badge/AWS-333333?style=flat&logo=amazonaws)
 ![Vercel](https://img.shields.io/badge/Vercel-333333?style=flat&logo=vercel)
 ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java)
