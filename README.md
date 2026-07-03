@@ -4,7 +4,9 @@
 ## 📫 Connect
 - 📧 Email: dhimantejas1234@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/tejas-kumar-t864  
-- 💻 Project: https://have-it-sooty.vercel.app/
+- 💻 Project lives:
+-  https://have-it-sooty.vercel.app/
+- https://team-manager.up.railway.app/
 
 ---
 
