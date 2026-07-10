@@ -6,7 +6,7 @@
 - 💼 LinkedIn: https://linkedin.com/in/tejas-kumar-t864  
 - 💻 Project lives:
 - https://have-it-sooty.vercel.app/
-- https://team-manager.up.railway.app/
+- https://sql-master-ai.vercel.app/
 - https://medicure-ai-five.vercel.app/
 
 ---
